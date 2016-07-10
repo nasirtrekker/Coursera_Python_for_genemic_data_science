@@ -1,4 +1,4 @@
-## Coursera Python for genomic data science exam instruction and possible code/answers for the questions
+## Coursera Python for genomic data science exam instruction and possible code/answers
 
 
 Please thoroughly read the instructions below before you take the Final Exam.
